@@ -13,10 +13,6 @@
 [Compiled](https://raw.githubusercontent.com/notmarek/enmity-plugins/master/dist/HideBlockedMessages.js)
 
 [Source](https://github.com/notmarek/enmity-plugins/tree/master/HideBlockedMessages)
-## BetterBadges
-[Compiled](https://raw.githubusercontent.com/notmarek/enmity-plugins/master/dist/BetterBadges.js)
-
-[Source](https://github.com/notmarek/enmity-plugins/tree/master/BetterBadges)
 ## AmongUs
 [Compiled](https://raw.githubusercontent.com/notmarek/enmity-plugins/master/dist/AmongUs.js)
 
